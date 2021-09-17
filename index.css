@@ -5,6 +5,12 @@
 .nav-link{
     color: #FFF;
 }
+.contact-link{
+    color: darkblue;
+}
+li{
+    list-style: none;
+}
 .logo{
     border-radius: 50%;
 }

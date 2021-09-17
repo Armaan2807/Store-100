@@ -14,5 +14,13 @@ margin: 62px 0px;
     
 }
 .category-images{
-
+display: flex;
+flex-wrap: nowrap;
+overflow-x: auto;
+white-space: nowrap;
+padding: 20px;
+}
+.card{
+    height: 290px;
+    width: 260px;
 }

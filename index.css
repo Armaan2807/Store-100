@@ -38,3 +38,7 @@ color: white;
 .card-footer{
     /* z-index: 10; */
 }
+.my-footer{
+    background-color: #143a56;
+    color: white;
+}
